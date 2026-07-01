@@ -1,4 +1,4 @@
-//write a loop program to print sum of 1 to 5  =15
+//write a loop program to print the sum of two odd numbers,whose ten's digit is 7
 
 
 #include <stdio.h>

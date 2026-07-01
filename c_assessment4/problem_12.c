@@ -1,4 +1,4 @@
-//write a loop program to print 1 to 5 on one by one
+//write a loop program to print the sum of digits of a number
 
 
 #include <stdio.h>

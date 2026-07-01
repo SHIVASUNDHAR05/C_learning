@@ -1,4 +1,4 @@
-//write a loop program to print odd  1 to 9 on one by one
+//write a loop program to print two digit even numbers whose sum of digits is 6
 
 
 #include <stdio.h>
