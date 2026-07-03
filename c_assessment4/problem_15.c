@@ -4,7 +4,7 @@
 int main()
 {
     int a,count,b,first_digit;
-    a=423452;
+    a=12345;
     b=a;
     count=1;
     if ((a%2)==1)
